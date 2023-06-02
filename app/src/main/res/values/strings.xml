@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherInfo</string>
+    <string name="search_for_a_city_label">Search for a city</string>
+    <string name="temp">%1$s \u00B0</string>
+    <string name="search">search</string>
+    <string name="search_hint">please enter city</string>
+    <string name="search_header">Weather by City</string>
+    <string name="feels_like">Feels like %1$s \u00B0</string>
+    <string name="temp_min_max">%1$s\u00B0 / %2$s\u00B0</string>
+    <string name="icon_urls">https://openweathermap.org/img/wn/%1$s@2x.png</string>
+    <string name="city_error">please enter valid city name</string>
+</resources>
