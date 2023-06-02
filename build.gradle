@@ -4,3 +4,16 @@ plugins {
     id 'com.android.library' version '7.4.1' apply false
     id 'org.jetbrains.kotlin.android' version '1.8.0' apply false
 }
+ext{
+    navVersion = "2.5.3"
+    retrofitVersion = "2.9.0"
+    pagingVersion = "2.1.2"
+    gsonVersion = "2.10.1"
+    lifecycleVersion= "2.5.1"
+    coroutinesVersion = "1.6.4"
+    recyclerViewVersion = "1.2.1"
+    mockkVersion = "1.9"
+    coreTesting = "2.1.0"
+    coroutinesTest = "1.6.4"
+    converterGson="2.5.0"
+}
